@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=W-Codyz&theme=tokyonight" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=W-Codyz&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-sooty-delta-53.vercel.app/api?username=W-Codyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-sooty-delta-53.vercel.app/api/top-langs/?username=W-Codyz&layout=compact&theme=tokyonight&hide_border=true&count_private=true&hide=pawn" height="165" />
 </p>
 
 <p align="center">
